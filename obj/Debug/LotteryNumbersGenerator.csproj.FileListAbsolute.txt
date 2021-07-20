@@ -1,0 +1,7 @@
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\obj\Debug\LotteryNumbersGenerator.csprojAssemblyReference.cache
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\obj\Debug\LotteryNumbersGenerator.csproj.CoreCompileInputs.cache
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\bin\Debug\LotteryNumbersGenerator.exe.config
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\bin\Debug\LotteryNumbersGenerator.exe
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\bin\Debug\LotteryNumbersGenerator.pdb
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\obj\Debug\LotteryNumbersGenerator.exe
+C:\Temp\LotteryRandomNumbers\LotteryNumbersGenerator\obj\Debug\LotteryNumbersGenerator.pdb
